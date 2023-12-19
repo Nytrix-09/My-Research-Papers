@@ -4,5 +4,5 @@ Deep Learning techniques are able to handle several tasks and as well as complex
 processing as well as the current advancements in the domain using opensource technologies. It aims to facilitate further research and development into creating hybrid environments that combine real and virtual environments to realise Spatial Computing applications for connected peripheral devices like the keyboard, mouse and trackpad for general purpose usage in
 various fields, as well as the viability of doing so as a result of technological advancements that have led us to the present technologies.
 
-Link to Access Paper - (CLick Here!)[https://digitalxplore.org/proceeding.php?pid=1345]
+Link to Access Paper - [Click Here!](https://digitalxplore.org/proceeding.php?pid=1345)
 
